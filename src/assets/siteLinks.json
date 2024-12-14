@@ -5,6 +5,11 @@
     "link": "https://www.longshao617.top/"
   },
   {
+    "icon": "Book",
+    "name": "网址合集",
+    "link": "https://collect.long0617.cn/"
+  },
+  {
     "icon": "Cloud",
     "name": "文件柜",
     "link": "https://file.long0617.cn/"
@@ -19,15 +24,11 @@
     "name": "起始页",
     "link": "https://search.long0617.cn/"
   },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://collect.long0617.cn/"
-  },
+
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://hot.long0617.cn/"
   },
   {
     "icon": "LaptopCode",
